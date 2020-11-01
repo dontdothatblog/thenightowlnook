@@ -14,8 +14,15 @@ p {
   width: 50%;   /* == 400px * .5 = 200px */
   height: 25%;  /* == 160px * .25 = 40px */
   margin: 5%;   /* == 400px * .05 = 20px */
-  padding: 5%;  /* == 400px * .05 = 20px */
+  padding: 20%;  /* == 400px * .05 = 20px */
   background: #422a54;
+  color: #dcf4f5;
 }
-h1 {color: white}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+   }
+
 h2 {color: grey}
