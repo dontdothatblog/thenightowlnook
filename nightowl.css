@@ -1,6 +1,9 @@
-  body {background-color: black}
+body {
+  background-color: black
 
-  section {
+}
+
+section {
   display: block;
   width: 200px;
   height: 160px;
@@ -14,6 +17,5 @@ p {
   padding: 5%;  /* == 400px * .05 = 20px */
   background: #422a54;
 }
-      h1 {color: white}
-      h2 {color: grey}
-      p {color: #dcf4f5}
+h1 {color: white}
+h2 {color: grey}
