@@ -1,27 +1,27 @@
 body {
   background-color: black
-
 }
 
 section {
   display: block;
-  width: 200px;
+  width: 100px;
   height: 160px;
   background: #454545;
 }
 
 p {
-  width: 50%;   /* == 400px * .5 = 200px */
-  height: 25%;  /* == 160px * .25 = 40px */
-  margin: 5%;   /* == 400px * .05 = 20px */
-  padding: 20%;  /* == 400px * .05 = 20px */
+  width: 25%;
+  height: 25%;
+  margin-left: 5%;
+  padding: 5%;
   background: #422a54;
   color: #dcf4f5;
+  text-align: center;
 }
 
 h1 {
   color: white;
-  text-align: center;
+  margin-left: 5%;
   text-decoration: underline;
    }
 
