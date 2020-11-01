@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
   body {background-color: black}
 
   section {
@@ -21,20 +17,3 @@ p {
       h1 {color: white}
       h2 {color: grey}
       p {color: #dcf4f5}
-
-  </style>
-</head>
-
-<body>
-<div>
-  <h1>The Nightowl Nook</h1>
-    <div>
-    <p>Tarot</p>
-    <p>Astrology</p>
-    <p>Dream Dictionary</p>
-    <p>Blog</p>
-    </div>
-</div>
-
-</body>
-</html>
