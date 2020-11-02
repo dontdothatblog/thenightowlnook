@@ -5,7 +5,7 @@ body {
 section {
   display: block;
   width: 100px;
-  height: 160px;
+  height: 80px;
   background: #454545;
 }
 
@@ -16,18 +16,30 @@ p {
   padding: 5%;
   background: #422a54;
   color: #dcf4f5;
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
   color: white;
-  margin-left: 5%;
+  margin-left: 7.5%;
   text-decoration: underline;
    }
 
-h2 {color: grey}
+h2 {
+  color: grey
+}
 
 a {
+  color: #dcf4f5;
+  text-decoration: none;
+}
+
+.card {
+  width: 19%;
+  height: 5%;
+  margin-left: 5%;
+  padding: 1%;
+  background: #3d3d3d;
   color: #dcf4f5;
   text-decoration: none;
 }
