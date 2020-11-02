@@ -10,20 +10,20 @@ section {
 }
 
 p {
-  width: 25%;
-  height: 25%;
+  width: 500px;
+  height: 25px;
   margin-left: 5%;
-  padding: 5%;
+  padding: 5px;
   background: #422a54;
   color: #dcf4f5;
-  text-align: left;
+  text-align: center;
 }
 
 h1 {
   color: white;
   font-size: 70px;
   text-decoration: underline;
-  margin-left: 5%;
+  margin-left: 85px;
 
    }
 
@@ -36,8 +36,9 @@ h2 {
 }
 
 h3 {
-  color: #1a9929;
-  font-size: 40px;
+  color: #2d1633;
+  font-size: 30px;
+  margin-bottom: 10px;
 }
 
 a {
@@ -49,17 +50,29 @@ a {
   width: 500px;
   height: 20px;
   margin-left: 5%;
-  padding: 1%;
+  padding: 5px;
   background: #3d3d3d;
   color: #dcf4f5;
   text-align: center;
   text-decoration: none;
 }
+
 .card-tarot {
   width: 500px;
-  height: 2000px;
+  height: 600px;
   margin-left: 5%;
-  padding: 1%;
+  padding: 5px;
+  background: #3d3d3d;
+  color: #dcf4f5;
+  text-align: center;
+  text-decoration: none;
+}
+
+.card-astro {
+  width: 500px;
+  height: 600px;
+  margin-left: 5%;
+  padding: 5px;
   background: #3d3d3d;
   color: #dcf4f5;
   text-align: center;
