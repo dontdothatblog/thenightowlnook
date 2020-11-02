@@ -21,13 +21,23 @@ p {
 
 h1 {
   color: white;
-  margin-left: 12%;
+  font-size: 70px;
   text-decoration: underline;
+  margin-left: 5%;
+
    }
 
 h2 {
   color: grey;
-  margin-left: 16%;
+  font-size: 45px;
+  font-style: italic;
+  margin-left: 5%;
+  margin-bottom: auto;
+}
+
+h3 {
+  color: #1a9929;
+  font-size: 40px;
 }
 
 a {
@@ -35,9 +45,19 @@ a {
   text-decoration: none;
 }
 
-.card {
+.card-dreams {
   width: 500px;
   height: 20px;
+  margin-left: 5%;
+  padding: 1%;
+  background: #3d3d3d;
+  color: #dcf4f5;
+  text-align: center;
+  text-decoration: none;
+}
+.card-astro {
+  width: 500px;
+  height: 2000px;
   margin-left: 5%;
   padding: 1%;
   background: #3d3d3d;
