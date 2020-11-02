@@ -31,7 +31,7 @@ h2 {
   color: grey;
   font-size: 45px;
   font-style: italic;
-  margin-left: 5%;
+  margin-left: 25%;
   margin-bottom: auto;
 }
 
@@ -55,7 +55,7 @@ a {
   text-align: center;
   text-decoration: none;
 }
-.card-astro {
+.card-tarot {
   width: 500px;
   height: 2000px;
   margin-left: 5%;
