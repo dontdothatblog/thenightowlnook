@@ -31,7 +31,8 @@ h2 {
   color: grey;
   font-size: 45px;
   font-style: italic;
-  margin-bottom: 5px
+  margin-bottom: 5px;
+  margin-top: 10px;
 }
 
 h3 {
