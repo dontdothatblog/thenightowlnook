@@ -81,5 +81,7 @@ a {
 
 .logo {
   background-image: image(A/imgs/1.png);
+  height: 100px;
+  width: 100px;
   margin-left: 5%;
 }
