@@ -23,8 +23,7 @@ h1 {
   color: white;
   font-size: 70px;
   text-decoration: underline;
-  margin-left: 85px;
-
+  margin-left: 5%;
    }
 
 h2 {
@@ -78,4 +77,9 @@ a {
   color: #dcf4f5;
   text-align: center;
   text-decoration: none;
+}
+
+.logo {
+  background-image: image(A/imgs/1.png);
+  margin-left: 5%;
 }
